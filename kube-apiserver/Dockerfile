@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/kube-apiserver:v1.13.4
-MAINTAINER chunoo
+FROM gcr.io/google-containers/kube-apiserver:v1.13.4
